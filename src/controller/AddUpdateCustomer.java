@@ -13,7 +13,7 @@ import javafx.scene.paint.Color;
 import model.Country;
 import model.Customer;
 import model.Division;
-import utils.Utils;
+import connecteor.Utils;
 
 
 public class AddUpdateCustomer {

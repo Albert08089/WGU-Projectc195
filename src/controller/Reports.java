@@ -6,7 +6,7 @@ import javafx.fxml.FXML;
 import javafx.scene.control.Hyperlink;
 import javafx.scene.paint.Color;
 import javafx.scene.text.*;
-import utils.Utils;
+import connecteor.Utils;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;

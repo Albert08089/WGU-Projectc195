@@ -9,7 +9,7 @@ import javafx.scene.control.PasswordField;
 import javafx.scene.control.TextField;
 import javafx.scene.paint.Color;
 import model.User;
-import utils.Utils;
+import connecteor.Utils;
 
 import java.io.FileWriter;
 import java.io.IOException;

@@ -14,7 +14,7 @@ import model.Appointment;
 import model.Contact;
 import model.Customer;
 import model.User;
-import utils.Utils;
+import connecteor.Utils;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;

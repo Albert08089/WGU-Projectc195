@@ -7,7 +7,7 @@ import javafx.scene.control.*;
 import javafx.scene.control.cell.PropertyValueFactory;
 import javafx.util.Callback;
 import model.Appointment;
-import utils.Utils;
+import connecteor.Utils;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;

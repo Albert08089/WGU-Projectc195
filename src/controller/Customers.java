@@ -6,7 +6,7 @@ import javafx.fxml.FXML;
 import javafx.scene.control.*;
 import javafx.scene.control.cell.PropertyValueFactory;
 import model.Customer;
-import utils.Utils;
+import connecteor.Utils;
 
 import java.util.Optional;
 import java.util.function.Predicate;
